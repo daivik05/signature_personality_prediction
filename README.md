@@ -8,10 +8,10 @@ This repository contains all the necessary components for a signature verificati
 - **archive**: Contains the dataset used for training and testing the models.
 - **models**: Contains the trained models and a JSON file with class indices.
 - **notebooks**: 
-  - `signature personaltiy prediction3.ipynb`: Notebook for creating and training the classification model.
-  - `sign_test_2.ipynb`: Notebook for setting up the connection between Colab and the mobile app.
+  - [`signature personaltiy prediction3.ipynb`](https://github.com/daivik05/signature_personality_prediction/blob/main/signature_personality_prediction.ipynb): Notebook for creating and training the classification model.
+  - [`sign_test_2.ipynb`](https://github.com/daivik05/signature_personality_prediction/blob/main/sign_test_2.ipynb): Notebook for setting up the connection between Colab and the mobile app.
 - **README.md**: This file.
-- **.gitignore**: Specifies files and directories to be ignored by Git.
+
 
 ## Getting Started
 

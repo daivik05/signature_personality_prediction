@@ -38,7 +38,7 @@ Open the `signature personaltiy prediction3.ipynb` notebook in Google Colab and 
 
 #### 2. Connecting to the Mobile App
 
-Open the `app_connection.ipynb` notebook in Google Colab and follow the instructions to set up the connection between Colab and the mobile app. The notebook includes:
+Open the `sign_test_2.ipynb` notebook in Google Colab and follow the instructions to set up the connection between Colab and the mobile app. The notebook includes:
 
 1. Loading the pre-trained model (`signature personality prediction3.h5`).
 2. Setting up a Flask server to handle image uploads and return predictions.

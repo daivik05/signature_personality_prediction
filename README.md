@@ -8,8 +8,8 @@ This repository contains all the necessary components for a signature verificati
 - **archive**: Contains the dataset used for training and testing the models.
 - **models**: Contains the trained models and a JSON file with class indices.
 - **notebooks**: 
-  - [`signature personaltiy prediction3.ipynb`](https://github.com/daivik05/signature_personality_prediction/blob/main/signature_personality_prediction.ipynb): Notebook for creating and training the classification model.
-  - [`sign_test_2.ipynb`](https://github.com/daivik05/signature_personality_prediction/blob/main/sign_test_2.ipynb): Notebook for setting up the connection between Colab and the mobile app. This file also has the personality prediction code.
+  - [signature personaltiy prediction3.ipynb](https://github.com/daivik05/signature_personality_prediction/blob/main/signature_personality_prediction.ipynb): Notebook for creating and training the classification model.
+  - [sign_test_2.ipynb](https://github.com/daivik05/signature_personality_prediction/blob/main/sign_test_2.ipynb): Notebook for setting up the connection between Colab and the mobile app. This file also has the personality prediction code.
 - **README.md**: This file.
 
 
@@ -60,6 +60,8 @@ The pre-trained models are located in the `models` directory:
 ### Mobile App
 
 The mobile app is designed to upload images to the Flask server and display the prediction results. Ensure you have set up the app to point to the ngrok URL generated in the `sign_test_2.ipynb` notebook.
+The basic code for the mobile app is available in this repository: [signature_verification_app](https://github.com/daivik05/signature_verification_app). This app is designed to upload images to the Flask server and display the prediction results. Ensure you have set up the app to point to the ngrok URL generated in the `app_connection.ipynb` notebook.
+
 
 ## Contributing
 

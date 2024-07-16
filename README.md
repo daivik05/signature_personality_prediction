@@ -47,7 +47,7 @@ Open the `sign_test_2.ipynb` notebook in Google Colab and follow the instruction
 
 ### Dataset
 
-The dataset used for training and testing is located in the `archive` directory. It contains separate folders for training, testing, and validation.
+The dataset used for training and testing is located in the `archive` directory. It contains separate folders for training, testing, and validation. The dataset has been used for this project was downloaded from [`Kaggle`](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset).
 
 ### Models
 

@@ -60,7 +60,7 @@ The pre-trained models are located in the `models` directory:
 ### Mobile App
 
 The mobile app is designed to upload images to the Flask server and display the prediction results. Ensure you have set up the app to point to the ngrok URL generated in the `sign_test_2.ipynb` notebook.
-The basic code for the mobile app is available in this repository: [signature_verification_app](https://github.com/daivik05/signature_verification_app). This app is designed to upload images to the Flask server and display the prediction results. Ensure you have set up the app to point to the ngrok URL generated in the `app_connection.ipynb` notebook.
+The basic code for the mobile app is available in this repository: [signature_verification_app](https://github.com/daivik05/signature_verification_app). This app is designed to upload images to the Flask server and display the prediction results. Ensure you have set up the app to point to the ngrok URL generated in the `sign_test_2.ipynb` notebook.
 
 
 ## Contributing
